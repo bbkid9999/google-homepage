@@ -1,0 +1,19 @@
+.top_left a  {
+  color: black;
+}
+
+.top_right a  {
+  color: black;
+}
+
+.top_right {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}
+
+.main_image {
+  position: static;
+  right: 50%;
+  left: 50%;
+}
